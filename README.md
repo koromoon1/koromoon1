@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Boyang. 
 - 👀 I’m interested in League of Legends and cars.
-- 🌱 I’m currently learning web developmnent and trying to become a front end designer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: koromoon@live.com
+- 🌱 I’m currently learning web developmnent and open to jobs.
+- 💞️ I’m looking to collaborate on any project that interests me.
+- 📫 How to reach me: eqboyang@gmail.com
 
 <!---
 koromoon1/koromoon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
